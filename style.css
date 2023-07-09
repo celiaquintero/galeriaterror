@@ -1,0 +1,21 @@
+html {
+    background-color: #000000;
+  }
+  @font-face {
+    font-family: "Chiller";
+    src: url("chiller.woff2") format("woff2"),
+         url("chiller.woff") format("woff");
+}
+  h1 {
+    font-size: 80px;
+    text-align: center;
+    color:red;
+    font-family: "Chiller";
+  }
+
+  p {
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+    font-family: "Chiller";
+}
+
