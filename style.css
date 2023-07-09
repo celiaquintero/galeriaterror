@@ -3,8 +3,8 @@ html {
   }
   @font-face {
     font-family: "Chiller";
-    src: url("https://celiaquintero.github.io/galeriaterror/Chiller.woff2") format("woff2"),
-         url("https://celiaquintero.github.io/galeriaterror/Chiller.woff") format("woff");
+    src: url("https://rawcdn.githack.com/celiaquintero/galeriaterror/ffbd82312e4e5c9ddb46e3027f26fd063e9ed228/Chiller.woff2") format("woff2"),
+         url("https://rawcdn.githack.com/celiaquintero/galeriaterror/ffbd82312e4e5c9ddb46e3027f26fd063e9ed228/Chiller.woff") format("woff");
 }
   h1 {
     font-size: 80px;
