@@ -3,8 +3,8 @@ html {
   }
   @font-face {
     font-family: "Chiller";
-    src: url("chiller.woff2") format("woff2"),
-         url("chiller.woff") format("woff");
+    src: url("Chiller.woff2") format("woff2"),
+         url("Chiller.woff") format("woff");
 }
   h1 {
     font-size: 80px;
